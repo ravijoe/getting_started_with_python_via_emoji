@@ -1,2 +1,2 @@
-# ohh-love
-u know this and that/..
+# python emoji 
+simple python scripts using python emoji module to print emojis
